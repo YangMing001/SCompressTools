@@ -1,0 +1,22 @@
+{
+  "name": "sct",
+  "version": "1.0.0",
+  "description": "image compress tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YangMing001/SCompressTools.git"
+  },
+  "keywords": [
+    "sct"
+  ],
+  "author": "ym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YangMing001/SCompressTools/issues"
+  },
+  "homepage": "https://github.com/YangMing001/SCompressTools#readme"
+}
