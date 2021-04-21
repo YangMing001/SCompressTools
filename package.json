@@ -1,5 +1,5 @@
 {
-  "name": "sct",
+  "name": "sict-cli",
   "version": "1.0.0",
   "description": "image compress tools",
   "main": "index.js",
@@ -26,7 +26,7 @@
     "request": "^2.70.0"
   },
   "bin": {
-    "sct": "index.js"
+    "sict": "index.js"
   },
   "preferGlobal": "true",
   "bugs": {
