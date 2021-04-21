@@ -55,7 +55,7 @@ if (argv.v || argv.version) {
 
     var files = argv._.length ? argv._ : ["."];
 
-    var key = "";
+    var key = "3l2zDYQf365R505NHRG7trpj02kcKMd8";
     var resize = {};
     var max = argv.m || argv.max ? (argv.m || argv.max) + 0 : -1;
 
